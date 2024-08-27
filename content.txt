@@ -1,0 +1,4 @@
+hi all
+red
+white
+blue
